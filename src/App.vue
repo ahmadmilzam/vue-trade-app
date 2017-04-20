@@ -9,6 +9,8 @@
   </div>
 </template>
 
+<style src="./scss/main.scss" lang="scss"></style>
+
 <script>
   import { mapGetters } from 'vuex';
   import Navbar from './components/layouts/Navbar';
