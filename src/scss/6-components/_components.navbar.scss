@@ -40,6 +40,11 @@ $navbar-title-font-size: 20px !default;
   margin-right: -#{rem-calc($navbar-padding)};
 }
 
+.c-navbar__logo {
+  display: inline-block;
+  height: rem-calc($navbar-height);
+}
+
 .c-navbar__title {
   display: block;
   float: left;
